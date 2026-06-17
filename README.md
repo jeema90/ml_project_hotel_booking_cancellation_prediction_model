@@ -53,14 +53,14 @@ Users can enter booking information through a Streamlit dashboard and instantly 
 ```text
 hotel-booking-cancellation-prediction/
 │
-├── main.py                 # Streamlit application
+├── main.py                 
 ├── prediction.py           # Prediction functions
 ├── artifacts
 |      └── feature_names.pkl           #feature names 
        └── hotel_cancellation_rf.pkl   #Trained Random Forest model
        
-├── requirements.txt        # Project dependencies
-├── README.md               # Project documentation
+├── requirements.txt       
+├── README.md               
 │── data
     └── hotel_booking.csv
 └── images
