@@ -2,3 +2,4 @@ artifacts/hotel_cancellation_rf.pkl
 .idea/
 __pycache__/
 artifacts/__pycache__/
+.devcontainer
